@@ -9,7 +9,7 @@ Add custom editor to the Unity's External Tools section in Preferences to open f
 ## Features
 
 * Double click files to open them.
-* Use any text editor with Unity (even in terminal-based, like vim).
+* Use any text editor with Unity (even terminal-based, like vim).
 * Generate Visual Studio project for autocompletion with omnisharp.
 * Provide custom arguments to editor and/or terminal.
 
