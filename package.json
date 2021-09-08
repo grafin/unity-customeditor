@@ -1,0 +1,12 @@
+{
+  "name": "com.github.grafin.bash-config",
+  "displayName": "CustomExternalEditor",
+  "version": "0.0.1",
+  "unity": "2019.4",
+  "description": "Add any custom editor to the Unity's External Tools section in Preferences.",
+  "keywords": [ "ide", "editor" ],
+  "category": "editor extensions",
+  "dependencies": {},
+  "samples": [
+  ]
+}
